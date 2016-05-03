@@ -6,4 +6,8 @@ public class Cals {
 		{
 			return k+ls;
 		}
+		public int sub(int k, int ls)
+		{
+			return k-ls;
+		}
 }
